@@ -1,4 +1,3 @@
-
 @extends('layout/template')
 
 @section('title', 'Alumno | Escuela')
